@@ -1,16 +1,4 @@
 # Proxy 2018.10.27
-// Client
-PROCESS-NAME,Backup and Sync,BosLife
-PROCESS-NAME,Day One,BosLife
-PROCESS-NAME,Dropbox,BosLife
-PROCESS-NAME,LINE,BosLife
-PROCESS-NAME,node-webkit,BosLife
-PROCESS-NAME,Resilio Sync,BosLife
-PROCESS-NAME,Spotify,BosLife
-PROCESS-NAME,Tweetbot,BosLife
-PROCESS-NAME,Twitter,BosLife
-PROCESS-NAME,Twitterrific,BosLife
-PROCESS-NAME,viu,BosLife
 // UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,BosLife
 USER-AGENT,Argo*,BosLife

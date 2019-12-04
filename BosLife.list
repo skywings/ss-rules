@@ -1,14 +1,4 @@
 # Proxy 2018.10.27
-// UA
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,BosLife
-USER-AGENT,Argo*,BosLife
-USER-AGENT,AwemeI18n*,BosLife
-USER-AGENT,Coinbase*,BosLife
-USER-AGENT,Instagram*,BosLife
-USER-AGENT,Resilio Sync*,BosLife
-USER-AGENT,SoundCloud*,BosLife
-USER-AGENT,viu*,BosLife
-USER-AGENT,WeMusic*,BosLife
 // BosLife
 DOMAIN-KEYWORD,boslife,BosLife
 DOMAIN-KEYWORD,boswiki,BosLife

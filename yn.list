@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+# 自定义
+DOMAIN-SUFFIX,duangcloud.org

@@ -1,0 +1,61 @@
+荐-IPLC专线 深港I 原生IP = vmess, sz-special-hk-1.lanan.world, 33333, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 
+荐-IPLC专线 沪美 原生IP = vmess, sh-special-us-1.lanan.world, 33333, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 
+台湾1 Hinet 0.8倍率 = vmess, tw1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+台湾2 Hinet 0.7倍率 = vmess, tw2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港1 CN2 GIA = vmess, hk-1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港2 CN2 GIA = vmess, hk-2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港3 CN2 GIA = vmess, hk3.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港4 CN2 GIA = vmess, hk4.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港5 CN2 GIA = vmess, hk-5.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港6 CN2 GIA = vmess, hk6.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港7 CN2 = vmess, hk7.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港8 CN2 = vmess, hk8.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港9 HKT = vmess, hk9.lanan.world, 9090, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 
+香港10 CN2 GIA = vmess, hk10.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港11 CN2 GIA = vmess, hk11.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港12 CN2 GIA = vmess, hk-12.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港13 CN2 GIA = vmess, hk13.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港14 CN2 = vmess, hk14.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港15 CN2 GIA = vmess, hk15.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港16 CN2 GIA = vmess, hk-16.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港17 CN2 GIA = vmess, hk17.lanan.world, 443 , username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港18 CN2 GIA = vmess, hk18.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港19 CN2 GIA = vmess, hk19.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港20 CN2 = vmess, hk20.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+香港21 CN2 = vmess, hk21.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+维护-香港22 HKT 0.5倍率 = vmess, hk22.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国1 CN2 GIA = vmess, us1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国2 CN2 GIA = vmess, us2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国3 CN2 GIA = vmess, us3.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国4 CN2 GIA = vmess, us4.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国5 CN2 GIA = vmess, us5.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国6 CN2 GIA = vmess, us6.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国7 CN2 GIA = vmess, us7.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国8 CN2 GIA = vmess, us8.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国9 CN2 GIA 0.4倍率 = vmess, us9.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国10 CN2 GIA = vmess, us10.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国11 CN2 GIA 0.8倍率 = vmess, us11.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+美国12 CN2 GIA 0.8倍率 = vmess, us12.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+新加坡1 CN2 GIA = vmess, sg1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+新加坡2 CN2 GIA = vmess, sg2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+新加坡3 CN2 GIA = vmess, sg3.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+新加坡4 CN2 GIA = vmess, sg4.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+新加坡5 CN2 GIA = vmess, sg5.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本1 = vmess, jp1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本2 = vmess, jp2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本3 = vmess, jp3.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本4 = vmess, jp4.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本5 = vmess, jp5.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本6 = vmess, jp6.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本7 = vmess, jp7.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本8 = vmess, jp8.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本9 = vmess, jp9.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+日本10 = vmess, jp10.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+韩国 = vmess, kr2.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+英国 = vmess, loop-uk-1.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+德国 GIA CN2 = vmess, ger.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+印度 = vmess, india.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+俄罗斯 = vmess, rus.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, tls=true
+IPLC专线 京港 10倍率 = vmess, bj-special-hk.lanan.world, 33333, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 
+IPLC专线 沪港 10倍率 = vmess, sh-special-hk.lanan.world, 443, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 
+IPLC专线 深港II 10倍率 = vmess, sz-special-hk-2.lanan.world, 33333, username=659b92b5-b053-bf9a-e5a8-6ae8b6033f24, 

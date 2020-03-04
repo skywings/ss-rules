@@ -1,7 +1,7 @@
 // BosLife
-DOMAIN-KEYWORD  
+DOMAIN-KEYWORD, boslife
 DOMAIN-KEYWORD,boswiki 
-DOMAIN-SUFFIX .org 
+DOMAIN-SUFFIX, .org 
 DOMAIN-SUFFIX,cn1.info 
 // Line
 DOMAIN-SUFFIX,lin.ee 
